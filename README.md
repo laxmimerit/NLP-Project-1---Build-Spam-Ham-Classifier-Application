@@ -2,17 +2,12 @@
 
 Join me in this NLP Project series as we build a Spam or Ham Classifier App using Streamlit! Here's a quick breakdown of what you'll learn:
 
-📚 NLP Introduction: Dive into the world of Natural Language Processing (NLP) fundamentals.
-
-📊 TF-IDF: Master Term Frequency-Inverse Document Frequency (TF-IDF) for text analysis.
-
-📁 Data Handling: Learn efficient data loading and visualization techniques.
-
-🤖 Model Creation: Build a powerful classifier model tailored to your data.
-
-💾 Model Management: Discover how to save and load your trained model.
-
-🚀 Streamlit App: Create an interactive web app for real-time classification.
+- 📚 NLP Introduction: Dive into the world of Natural Language Processing (NLP) fundamentals.
+- 📊 TF-IDF: Master Term Frequency-Inverse Document Frequency (TF-IDF) for text analysis.
+- 📁 Data Handling: Learn efficient data loading and visualization techniques.
+- 🤖 Model Creation: Build a powerful classifier model tailored to your data.
+- 💾 Model Management: Discover how to save and load your trained model.
+- 🚀 Streamlit App: Create an interactive web app for real-time classification.
 
 **YouTube Link**
 https://youtu.be/X_Ts7VhHgEU
