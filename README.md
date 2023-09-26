@@ -9,7 +9,7 @@ Join me in this NLP Project series as we build a Spam or Ham Classifier App usin
 - 💾 Model Management: Discover how to save and load your trained model.
 - 🚀 Streamlit App: Create an interactive web app for real-time classification.
 
-**YouTube Link**
+**YouTube Video Link**
 https://youtu.be/X_Ts7VhHgEU
 
 
